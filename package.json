@@ -1,6 +1,6 @@
 {
   "name": "gpact-contracts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GPACT Smart Contract library By ConsenSys Software Inc",
   "files": [
     "/contracts/**/*.sol"
