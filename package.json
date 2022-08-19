@@ -1,0 +1,20 @@
+{
+  "name": "gpact-contracts",
+  "version": "1.0.0",
+  "description": "GPACT Smart Contract library By ConsenSys Software Inc",
+  "files": [
+    "/contracts/**/*.sol"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SeongMin Yun",
+  "license": "Apache-2.0 license",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  },
+  "devDependencies": {
+    "hardhat": "^2.10.2"
+  }
+}
