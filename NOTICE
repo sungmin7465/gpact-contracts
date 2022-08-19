@@ -1,0 +1,8 @@
+This project is derived from ConsenSys's GPACT reference implementation. (https://github.com/ConsenSys/gpact)
+
+Modifications 
+
+all contracts file is based on reference implementation. 
+
+modification 1) fix uncompilable source code in reference implementation.
+modification 2) change path in import statements for openzeppeline-contracts. (local modules-> node_modules)
