@@ -3,7 +3,8 @@
   "version": "1.0.1",
   "description": "GPACT Smart Contract library By ConsenSys Software Inc",
   "files": [
-    "/contracts/**/*.sol"
+    "/contracts/**/*.sol",
+    "/artifacts/**/*.json"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
